@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "eventTitle": "Reactive Form Session",
+      "eventDate": "2023-06-29T18:30:00.000Z",
+      "fromTime": "10:00",
+      "toTime": "02:00",
+      "description": "Study about Angular reactive forms",
+      "guests": "Keshav@gmail.com , Keshav123@gmail.com,\nKeshavS1234@gmail.com",
+      "id": 1
+    },
+    {
+      "eventTitle": "Title",
+      "eventDate": "2023-06-29T18:30:00.000Z",
+      "fromTime": "00:30",
+      "toTime": "00:45",
+      "description": "Any",
+      "guests": "Kshav@gmail.com,Keshav12@gmal.com",
+      "id": 2
+    }
+  ]
+}

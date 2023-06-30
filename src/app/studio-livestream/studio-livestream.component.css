@@ -1,0 +1,11 @@
+.email_chip {
+    background-color: rgb(177, 174, 174);
+    border-radius: 15px;
+    width: min-content;
+}
+.description{
+    width: 20%;
+}
+.guests{
+    width: 15%;
+} 
